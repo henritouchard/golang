@@ -14,9 +14,11 @@ on a web page served on 3040. you type a word in the search bar and it will fast
 with file path anywhere on your computer.
 of course there are things to do:
 
-* upgrade UI
-* add better UX with instant research
-* optimise files-indexation to store only where there's a new file (it doesn't take a lot of CPU, it's less than 1%)
+* upgrade UI.
+* add better UX with instant research without page reload.
+* implement regexp (easy we could use those of mysql directly)
+* maybe do it in a window, it would be interesting.
+* optimise files-indexation to store only where there's a new file (it doesn't take a lot of CPU, it's less than 1%).
 * add a oneclick go to file near the results.
 
 feel free to do it by yourself!
