@@ -14,6 +14,7 @@ on a web page served on 3040. you type a word in the search bar and it will fast
 with file path anywhere on your computer.
 of course there are things to do:
 
+* auto-create Mysql database.
 * upgrade UI.
 * add better UX with instant research without page reload.
 * implement regexp (easy we could use those of mysql directly)
