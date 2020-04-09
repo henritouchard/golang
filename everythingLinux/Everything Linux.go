@@ -74,7 +74,7 @@ func main() {
 
 	// Create an sql.DB and check for errors
 	// createTable()
-	db, err = sql.Open("mysql", "root:T]x;4bghC2@/everything")
+	db, err = sql.Open("mysql", "root:MyPassword@/everything")
 	if err != nil {
 		panic(err.Error())
 	}
